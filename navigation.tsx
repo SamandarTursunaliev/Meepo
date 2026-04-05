@@ -13,7 +13,7 @@ import MapView, { Marker, Polyline } from "react-native-maps";
 import * as Location from "expo-location";
 import { MaterialIcons } from "@expo/vector-icons";
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyBkuIzWW6op_c_p3f-xoT_Ef5D9-XWGotQ";
+const GOOGLE_MAPS_API_KEY = "";
 const API_BASE_URL = "http://192.168.0.231:5000/api"; 
 
 //https://developers.google.com/maps/documentation/routes
